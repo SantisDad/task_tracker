@@ -23,5 +23,5 @@ A tiny C++ console app to create, view, and update a list of tasks with prioriti
 
 ### Linux/macOS
 ```bash
-g++ -std=c++11 -O2 -Wall -Wextra -o tasklist main.cpp
-./tasklist
+g++ -std=c++11 -O2 -Wall -Wextra -o task_tracker task_tracker.cpp
+./task_tracker
